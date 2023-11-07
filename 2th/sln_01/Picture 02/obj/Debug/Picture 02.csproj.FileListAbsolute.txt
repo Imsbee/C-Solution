@@ -1,0 +1,10 @@
+D:\3B_Work\2th\sln_01\Picture 02\bin\Debug\Picture 02.exe.config
+D:\3B_Work\2th\sln_01\Picture 02\bin\Debug\Picture 02.exe
+D:\3B_Work\2th\sln_01\Picture 02\bin\Debug\Picture 02.pdb
+D:\3B_Work\2th\sln_01\Picture 02\obj\Debug\Picture 02.csproj.AssemblyReference.cache
+D:\3B_Work\2th\sln_01\Picture 02\obj\Debug\Picture_02.Form1.resources
+D:\3B_Work\2th\sln_01\Picture 02\obj\Debug\Picture_02.Properties.Resources.resources
+D:\3B_Work\2th\sln_01\Picture 02\obj\Debug\Picture 02.csproj.GenerateResource.cache
+D:\3B_Work\2th\sln_01\Picture 02\obj\Debug\Picture 02.csproj.CoreCompileInputs.cache
+D:\3B_Work\2th\sln_01\Picture 02\obj\Debug\Picture 02.exe
+D:\3B_Work\2th\sln_01\Picture 02\obj\Debug\Picture 02.pdb
