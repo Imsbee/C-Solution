@@ -1,0 +1,10 @@
+D:\3B_Work\3th\sln_01\TextView\bin\Debug\TextView.exe.config
+D:\3B_Work\3th\sln_01\TextView\bin\Debug\TextView.exe
+D:\3B_Work\3th\sln_01\TextView\bin\Debug\TextView.pdb
+D:\3B_Work\3th\sln_01\TextView\obj\Debug\TextView.csproj.AssemblyReference.cache
+D:\3B_Work\3th\sln_01\TextView\obj\Debug\TextView.Form1.resources
+D:\3B_Work\3th\sln_01\TextView\obj\Debug\TextView.Properties.Resources.resources
+D:\3B_Work\3th\sln_01\TextView\obj\Debug\TextView.csproj.GenerateResource.cache
+D:\3B_Work\3th\sln_01\TextView\obj\Debug\TextView.csproj.CoreCompileInputs.cache
+D:\3B_Work\3th\sln_01\TextView\obj\Debug\TextView.exe
+D:\3B_Work\3th\sln_01\TextView\obj\Debug\TextView.pdb
